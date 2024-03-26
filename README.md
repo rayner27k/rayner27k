@@ -1,16 +1,29 @@
-### Hi there 👋
+## Rayner K.
 
-<!--
-**rayner27k/rayner27k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **About me**
 
-Here are some ideas to get you started:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum, quam eu fringilla condimentum, justo nunc vehicula tortor, at semper mi libero eget justo. Fusce eget metus vitae sapien sollicitudin ultricies. Nullam ac odio sit amet nunc consequat interdum. Integer sed justo eu leo consectetur consequat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Skills**
+
+- ***Lorem ipsum:*** dolor sit amet consectetur.
+- ***Vestibulum:*** ante ipsum primis in faucibus.
+- ***Aliquam erat volutpat:*** Nunc fermentum justo.
+- ***Phasellus convallis:*** nulla quis risus lobortis.
+- ***Integer eget:*** justo vel libero facilisis.
+- ***Mauris consequat:*** mi sed semper aliquam.
+- ***Fusce:*** nec nulla vitae est commodo.
+
+### **Contacts**
+
+- <ins>**Linkedin:**</ins> [Rayner K.](https://www.linkedin.com/in/rayner-k-86b577294/ "Linkedin")
+- <ins>**Instagram:**</ins> [rayner.exe](https://www.instagram.com/rayner.exe/ "Instagram")
+
+&nbsp;
+> ### **Lorem ipsum dolor sit amet**
+>
+> - <ins>Consectetur adipiscing elit.</ins>
+> - <ins>Sed gravida turpis nec dui feugiat vehicula.</ins>
+>
+> *Integer sed semper sapien.*
+><br/><br/>
