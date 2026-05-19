@@ -7,14 +7,18 @@
 
 # 👋 Hi, I'm Rayner Kelvin
 
-### Frontend Engineer specialized in UI Engineering, WebGIS platforms and scalable web experiences.
+### Frontend Engineer specialized in UI Engineering, WebGIS platforms and scalable web experiences
+
+<div align="left">
 
 💻 Building modern applications with React, TypeScript and scalable frontend architecture  
 🎨 Passionate about Design Systems, UX and accessibility  
 🗺️ Experienced in WebGIS platforms, interactive maps and geospatial data visualization  
 🚀 Always building, learning and improving  
 
-📍 Brazil
+</div>
+
+📍 Brasil 🇧🇷
 
 </div>
 
