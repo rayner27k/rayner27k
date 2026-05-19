@@ -1,57 +1,97 @@
 <div align="center">
 
-# 👋 Olá, eu sou Rayner Kelvin
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Frontend+Engineer;React+%2B+TypeScript+Specialist;UI+Engineering+%26+Design+Systems;Building+Scalable+Web+Experiences" />
 
-💻 FullStack Developer  
-🚀 React • TypeScript • UI/UX • Design Systems  
-📍 Brasil
+<br/>
+<br/>
+
+# 👋 Hi, I'm Rayner Kelvin
+
+### Frontend Engineer specialized in UI Engineering, WebGIS platforms and scalable web experiences.
+
+💻 Building modern applications with React, TypeScript and scalable frontend architecture  
+🎨 Passionate about Design Systems, UX and accessibility  
+🗺️ Experienced in WebGIS platforms, interactive maps and geospatial data visualization  
+🚀 Always building, learning and improving  
+
+📍 Brazil
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 About Me
 
-- 🎯 Focado em Front-end moderno
-- ⚛️ Especialista em React + TypeScript
-- 🎨 Apaixonado por UI/UX e Design Systems
-- 📚 Sempre aprendendo novas tecnologias
+I specialize in building scalable frontend architectures, accessible interfaces and high-quality design systems using modern frontend ecosystems.
+
+My work is focused on creating intuitive user experiences while balancing performance, maintainability and developer experience.
+
+Most of my recent projects involve:
+
+- UI Engineering
+- Design Systems
+- Accessibility
+- WebGIS Applications
+- Interactive Maps
+- Data Visualization
+- Spatial UX Experiences
+- Frontend Architecture
+- Component Libraries
+
+I enjoy solving complex UI challenges, improving product usability and collaborating with teams that care about building excellent products.
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Core Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,tailwind,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,angular,nodejs,python,postgres,docker,tailwind,figma,git,github,gitlab" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Expertise
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayner27k&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayner27k&layout=compact&theme=tokyonight&hide_border=true"/>
+| Frontend Engineering | UI/UX & Design Systems | Backend | DevOps & Workflow |
+|---|---|---|---|
+| Angular | Figma | Node.js | Docker |
+| React | Design Systems | Python | Git |
+| TypeScript | Accessibility | Express.js | GitHub |
+| Tailwind CSS | Material UI | PostgreSQL | GitLab |
+| ECharts | Radix UI | MSSQL | NPM / PNPM / Yarn |
+| Leaflet | React Aria | Authentication | Prettier |
+| MapLibre | Product Thinking | API Integration | Storybook |
+| WebGIS Applications | UI Engineering | REST APIs | ClickUp / Jira |
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rayner27k&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayner27k&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🌎 Onde me encontrar
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rayner27k&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌎 Connect With Me
 
 <div align="center">
 
@@ -59,7 +99,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rayner.kelvin27@gmail.com">
+<a href="https://gitlab.com/rayner27k">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rayner.kelvin27@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -69,6 +113,6 @@
 
 <div align="center">
 
-✨ Obrigado por visitar meu perfil ✨
+### ⚡ “Great products are built where design and engineering meet.”
 
 </div>
