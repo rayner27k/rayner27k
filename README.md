@@ -33,9 +33,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayner27k&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayner27k&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rayney27k&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img src="https://streak-stats.demolab.com?user=rayner27k&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 </div>
 
