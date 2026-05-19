@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👋 Olá, eu sou Rayner Kelvin
@@ -73,4 +72,3 @@
 ✨ Obrigado por visitar meu perfil ✨
 
 </div>
-```
