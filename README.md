@@ -1,29 +1,76 @@
-## Rayner K.
+```md
+<div align="center">
 
-### **About me**
+# 👋 Olá, eu sou Rayner Kelvin
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum, quam eu fringilla condimentum, justo nunc vehicula tortor, at semper mi libero eget justo. Fusce eget metus vitae sapien sollicitudin ultricies. Nullam ac odio sit amet nunc consequat interdum. Integer sed justo eu leo consectetur consequat.
+💻 FullStack Developer  
+🚀 React • TypeScript • UI/UX • Design Systems  
+📍 Brasil
 
-### **Skills**
+</div>
 
-- ***Lorem ipsum:*** dolor sit amet consectetur.
-- ***Vestibulum:*** ante ipsum primis in faucibus.
-- ***Aliquam erat volutpat:*** Nunc fermentum justo.
-- ***Phasellus convallis:*** nulla quis risus lobortis.
-- ***Integer eget:*** justo vel libero facilisis.
-- ***Mauris consequat:*** mi sed semper aliquam.
-- ***Fusce:*** nec nulla vitae est commodo.
+---
 
-### **Contacts**
+## 🚀 Sobre mim
 
-- <ins>**Linkedin:**</ins> [Rayner K.](https://www.linkedin.com/in/rayner-k-86b577294/ "Linkedin")
-- <ins>**Instagram:**</ins> [rayner.exe](https://www.instagram.com/rayner.exe/ "Instagram")
+- 🎯 Focado em Front-end moderno
+- ⚛️ Especialista em React + TypeScript
+- 🎨 Apaixonado por UI/UX e Design Systems
+- 📚 Sempre aprendendo novas tecnologias
 
-&nbsp;
-> ### **Lorem ipsum dolor sit amet**
->
-> - <ins>Consectetur adipiscing elit.</ins>
-> - <ins>Sed gravida turpis nec dui feugiat vehicula.</ins>
->
-> *Integer sed semper sapien.*
-><br/><br/>
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,tailwind,figma,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rayney27k&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://linkedin.com/in/raynerk">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rayner.kelvin27@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Obrigado por visitar meu perfil ✨
+
+</div>
+```
